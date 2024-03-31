@@ -149,3 +149,13 @@ body{
 .copyright span{
   color: #333;
 }
+
+.load-message,
+.error-message,
+.cityNotFound{
+  margin-top: 10px;
+  color: #888;
+  font-size: 25px;
+  font-weight: 400;
+  text-align: center;
+}
